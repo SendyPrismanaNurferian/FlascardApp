@@ -108,8 +108,3 @@ project-folder/
 - **Flashcard Categories**: Implement categories or tags to organize flashcards better.
 - **Search Functionality**: Add a search feature to quickly find flashcards.
 - **Progress Tracking**: Track user progress, showing which flashcards are well known and which need more review.
-
-## License
-
-This project is licensed under the MIT License.
-```
