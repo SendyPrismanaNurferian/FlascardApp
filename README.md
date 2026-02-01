@@ -1,6 +1,3 @@
-Berikut adalah contoh file `README.md` untuk proyek flashcard yang telah kita diskusikan dan modifikasi.
-
-```markdown
 # Flashcard Application
 
 A simple flashcard application built with HTML, CSS, JavaScript, and Node.js, allowing users to create, view, and manage their flashcards. This project is ideal for anyone looking to reinforce their knowledge through spaced repetition learning.
@@ -102,8 +99,6 @@ project-folder/
 
 - **Styling**: Modify `styles.css` in the `public` directory to customize the look and feel of the application.
 - **JavaScript Logic**: Modify `script.js` for changes in the client-side logic.
-
-## Future Improvements
 
 - **Flashcard Categories**: Implement categories or tags to organize flashcards better.
 - **Search Functionality**: Add a search feature to quickly find flashcards.
